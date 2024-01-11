@@ -1,4 +1,4 @@
-![image](https://github.com/RAMALITSE/simple-Calculator/assets/44533418/032e4b17-7633-4408-b217-19eef4e70c1c)# simple-Calculator
+# simple-Calculator
 #Topic: a simple calculator
 #Requirements
 Just a command line application, no GUI.
