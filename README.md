@@ -1,37 +1,37 @@
 # simple-Calculator
-#Topic: a simple calculator
-#Requirements
+# Topic: a simple calculator
+# Requirements
 Just a command line application, no GUI.
 Bases：2, 10, 16
    1100b * 2 = 24
     0x1F  * 2 = 62
 Operators: + - * / ^ () sin cos
     The division is defined as real division.
-#Arbitrary long
+# Arbitrary long
    15+ 16 * ( 3^(3+4) )  - 100
 
-#with parenthesis
+# with parenthesis
 1+(4-2)*3
-#Expected outcome
+# Expected outcome
 7
-#multiple operators
+# multiple operators
 10+2*3-5 
 
-#Expected outcome 
+# Expected outcome 
 11
 
-#Variable definitions
+# Variable definitions
 sum=20
 sum
 
-#Expected outcomes
+# Expected outcomes
 20
 
-#complex expressions
+# complex expressions
 pi  = 3.14
 radius = 3
 sin( pi / 2 ) + pi * radius ^ 2 + 0x1F - 1100b
 
-#Expected outcome 
+# Expected outcome 
 48.26
 
